@@ -3,8 +3,8 @@
 </div>
 
 ## 🌟 Sobre Mim
-Desenvolvedora fullstack entusiasta por tecnologia e novos aprendizados. Atualmente curso **Engenharia de Software** e aplico os meus conhecimentos em projetos Full Stack.  
-Atualmente participo como desenvolvedora fullstack voluntaria na [comunidade Frontend Fusion](https://github.com/Projeto-FrontEnd-Fusion) desenvolvendo o Website da [ONG Associação Cultural e Educacional Violeta Eliz](https://github.com/Projeto-FrontEnd-Fusion/Aceve-website-development).
+Desenvolvedora Web fullstack, atualmente cursando **Engenharia de Software**.  
+Atualmente participo como Trainee na [FWK Global](https://br.linkedin.com/company/fwkglobal) desenvolvendo a plataforma Orfeu e tambem atuei como desenvolvedora fullstack voluntária na [comunidade Frontend Fusion](https://github.com/Projeto-FrontEnd-Fusion) desenvolvendo o Website da [ONG Associação Cultural e Educacional Violeta Eliz](https://github.com/Projeto-FrontEnd-Fusion/Aceve-website-development).
 <div style="display: flex" align="center">
      <table width="100%">
     <tr>
@@ -20,7 +20,7 @@ Atualmente participo como desenvolvedora fullstack voluntaria na [comunidade Fro
     ├── 🌟 Tailwind Css | Styled Components
     ├── 🎲 MongoDB | MySQL   
     ├── 💻 Figma | Git |  
-    ├── 📚 Estudando Jest
+    ├── 📚 Estudando Cybersecurity
     └────────────────────────────────────────────────── 
     
 </div>
@@ -49,6 +49,5 @@ Atualmente participo como desenvolvedora fullstack voluntaria na [comunidade Fro
 <br>
 Fique à vontade pra conferir os conteúdos que já publiquei nas redes sociais e pra puxar um papo também 🐱‍👓
 <div>
-  <a href = "mailto:elen.damares774@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@elenndev" target="_blank"><img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white></a> 
+  <a href = "mailto:elenndev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
